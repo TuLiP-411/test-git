@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hung dep trai vcl nit
 huyffff
+=======
+hung dep trai vcl oc cho
+
+day la hung nhung khong dep trai
+
+>>>>>>> develop
